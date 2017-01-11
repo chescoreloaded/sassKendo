@@ -1,0 +1,5 @@
+[
+	{"keys":["ctrl+shift+i"],"command":"reindent"},
+	{"keys":["ctrl+shift+c"],"command":"title_case"},
+	{"keys":["alt+enter"],"command":"run_macro_file","args": {"file": "Packages/User/new-curly-line.sublime-macro"}}
+]

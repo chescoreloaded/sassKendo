@@ -1,0 +1,15 @@
+{
+	"caret_extra_width": 3,
+	"caret_extra_top" :2,
+	"caret_extra_bottom": 2,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"bold_folder_labels": true,
+	"highlight_line": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Flatland Dark.sublime-theme"
+}
